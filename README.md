@@ -1,6 +1,6 @@
 # jangan di salah gunakan author tidak bertanggung jawab atas yg anda lakukan 
 
-git clone https://github.com/fazly/cepat
+git clone https://github.com/fazly36/cepat
 
 cd cepat
 
