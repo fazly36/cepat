@@ -68,12 +68,12 @@ def cok():
     print("[*] JIKA TIDAK MENGERTI MENGGUNAKAN TOOLS SILAHKAN HUBUNGI ADMIN DENGAN KETIK '%sADMIN%s'"%(H,N))
     print("[*] (ADMIN IS NOT RESPONSIBLE FOR ABUSE OF THIS TOOL)")
     print("[*] SCRIPT TELAH DI UPATE PADA TANGGAL [Rabu 10  Maret 2022]")
-    key = input("\n[*] masukan api key kamu : ")
-    if key == '':
-        print("\[!] jangan kosong bro");time.sleep(2);cok()
-    elif key in['admin','Admin','ADMIN']:
-        jalan("\n %s* %sAnda akan di alihkan ke whatsapp..."%(O,H));time.sleep(0.02)
-        os.system('xdg-open https://wa.me/6285881661596?text=Hallo');cok()
+
+
+
+
+
+
 
 # VALIDASI TOKEN
 def login():
